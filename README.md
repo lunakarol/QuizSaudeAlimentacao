@@ -845,23 +845,7 @@
             <div class="final-message">
                 <h2 class="final-title">🌟 A Importância da Alimentação Saudável e Saúde 🌟</h2>
                 
-                <div class="final-text">
-                    <p>🍎 <strong>Alimentação Saudável:</strong> Comer frutas, verduras e legumes nos dá energia, ajuda no crescimento e mantém nosso corpo forte para brincar e aprender!</p>
-                    
-                    <p>💧 <strong>Hidratação:</strong> Beber água é essencial para nosso corpo funcionar bem. Ajuda na digestão, mantém a pele saudável e regula a temperatura do corpo.</p>
-                    
-                    <p>🏃‍♂️ <strong>Atividade Física:</strong> Brincar, correr, pular e se movimentar fortalece os músculos e ossos, melhora o humor e ajuda a ter um bom sono.</p>
-                    
-                    <p>😴 <strong>Descanso:</strong> Dormir bem é tão importante quanto se alimentar bem. Nosso corpo precisa descansar para crescer e se recuperar.</p>
-                    
-                    <p>🧠 <strong>Mente Saudável:</strong> Além do corpo, precisamos cuidar da mente. Brincar com amigos, ler livros e aprender coisas novas mantém nosso cérebro ativo e feliz!</p>
-                    
-                    <p>🦷 <strong>Higiene:</strong> Lavar as mãos, escovar os dentes e tomar banho são hábitos essenciais para evitar doenças e manter a saúde.</p>
-                </div>
-                
-                <p style="font-size: 24px; margin-top: 30px; font-weight: bold; color: #d32f2f;">
-                    Lembre-se: cuidar da saúde é o melhor presente que podemos dar para nós mesmos! 💖
-                </p>
+               
             </div>
             
             <button id="restartBtn" class="btn">Jogar Novamente 🔄</button>
