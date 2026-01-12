@@ -843,7 +843,7 @@
             </div>
             
             <div class="final-message">
-                <h2 class="final-title">🌟 A Importância da Alimentação Saudável e Saúde 🌟</h2>
+                <h2 class="final-title">🌟Parabéns! Você completou o quiz! 🌟</h2>
                 
                
             </div>
